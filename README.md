@@ -1,2 +1,2 @@
 # whatsapp-php
-## Whatsapp bot using pre-defined commands/MENU
+## Whatsapp bot with responses to users using pre-defined commands/MENU
